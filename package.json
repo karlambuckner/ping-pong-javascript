@@ -1,0 +1,14 @@
+{
+  "name": "ping-pong-javascript",
+  "version": "1.0.0",
+  "description": "\"\",",
+  "main": "index.js",
+  "scripts": {
+    "test": "{\"test': \"test\"},"
+  },
+  "author": "Karla and Gabi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
